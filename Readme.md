@@ -1,8 +1,9 @@
 ![poster](./.github/playwright.png)
 
 ## Sobre
-Automação de testes em Playwright da funcionalidade cadastro Forms
-Workflow de testes contínuos em Playwright no Github Actions
+- Automação de testes em Playwright da funcionalidade cadastro Forms
+- Workflow de testes contínuos em Playwright no Github Actions
+
 
 ## Stacks
 - Playwright

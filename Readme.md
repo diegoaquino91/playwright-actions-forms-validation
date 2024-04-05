@@ -1,4 +1,4 @@
-![poster](./.github/poster.png)
+![poster](./.github/playwright.png)
 
 ## Sobre
 
@@ -26,6 +26,4 @@ npx playwright test
 npx playwright show-report
 ```
 
-<hr>
-Curso disponível em https://qaxperience.com
 

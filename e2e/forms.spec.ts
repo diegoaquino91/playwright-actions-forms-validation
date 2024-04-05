@@ -34,7 +34,7 @@ test.describe('cadastro forms', () => {
         await formsPage.clickBtnSubmit()
 
         // Então valido a mensagem de submit com sucesso
-        await formsPage.checkSuccessMsg('Successfully submitted!!')
+        await formsPage.checkSuccessMsg('Successfully submitted!')
 
     })
 

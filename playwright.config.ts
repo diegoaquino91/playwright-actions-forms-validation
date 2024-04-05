@@ -33,7 +33,8 @@ export default defineConfig({
     trace: 'on-first-retry',
     headless: true,
     baseURL: 'https://katalon-test.s3.amazonaws.com',
-    screenshot: 'only-on-failure'
+    screenshot: 'only-on-failure',
+    video: 'on'
   },
 
   /* Configure projects for major browsers */
@@ -43,15 +44,15 @@ export default defineConfig({
       use: { ...devices['Desktop Chrome'] },
     },
 
-    {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'] },
-    },
+    // {
+    //   name: 'firefox',
+    //   use: { ...devices['Desktop Firefox'] },
+    // },
 
-    {
-      name: 'webkit',
-      use: { ...devices['Desktop Safari'] },
-    },
+    // {
+    //   name: 'webkit',
+    //   use: { ...devices['Desktop Safari'] },
+    // },
 
     /* Test against mobile viewports. */
     // {

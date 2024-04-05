@@ -7,7 +7,7 @@ Repositório do treinamento: Workflow de testes contínuos em Playwright no Gith
 ## Stacks
 - Playwright
 - TypeScript
-- Tesults
+- TestResults
 
 ## Rodando
 
@@ -21,7 +21,7 @@ npm install
 npx playwright test 
 ```
 
-3. Executar ver o relatório dos testes
+3. Executar para ver o relatório dos testes
 ```
 npx playwright show-report
 ```

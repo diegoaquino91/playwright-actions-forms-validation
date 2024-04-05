@@ -1,0 +1,155 @@
+{
+    "successSubmit": {
+      "firstName": "Diego",
+      "lastName": "Aquino",
+      "gender": "Male",
+      "dateBirth": {
+        "day": 18, 
+        "monthYear": "February 2023"
+      },
+      "address": "Rua dos Alfeneiros",
+      "email": "diego@teste.com.br",
+      "password": "Pwd123@@@",
+      "company": "IA",
+      "role": "QA",
+      "jobExpec": "Challenging",
+      "waysOfDev": ["Read books", "Take online courses", "Contribute to opensource projects"],
+      "comment": "Chegamos até aqui"
+    },
+    "firstNameRequired": {
+        "firstName": "",
+        "lastName": "Aquino",
+        "gender": "Male",
+        "dateBirth": {
+          "day": 18, 
+          "monthYear": "February 2023"
+        },
+        "address": "Rua dos Alfeneiros",
+        "email": "diego@teste.com.br",
+        "password": "Pwd123@@@",
+        "company": "IA",
+        "role": "QA",
+        "jobExpec": "Challenging",
+        "waysOfDev": ["Read books", "Take online courses", "Contribute to opensource projects"],
+        "comment": "Chegamos até aqui"
+    },
+    "lastNameRequired": {
+        "firstName": "Diego",
+        "lastName": "",
+        "gender": "Male",
+        "dateBirth": {
+          "day": 18, 
+          "monthYear": "February 2023"
+        },
+        "address": "Rua dos Alfeneiros",
+        "email": "diego@teste.com.br",
+        "password": "Pwd123@@@",
+        "company": "IA",
+        "role": "QA",
+        "jobExpec": "Challenging",
+        "waysOfDev": ["Read books", "Take online courses", "Contribute to opensource projects"],
+        "comment": "Chegamos até aqui"
+    },
+    "genderRequired": {
+        "firstName": "Diego",
+        "lastName": "Aquino",
+        "gender": "",
+        "dateBirth": {
+          "day": 18, 
+          "monthYear": "February 2023"
+        },
+        "address": "Rua dos Alfeneiros",
+        "email": "diego@teste.com.br",
+        "password": "Pwd123@@@",
+        "company": "IA",
+        "role": "QA",
+        "jobExpec": "Challenging",
+        "waysOfDev": ["Read books", "Take online courses", "Contribute to opensource projects"],
+        "comment": "Chegamos até aqui"
+    },
+    "dobRequired": {
+        "firstName": "Diego",
+        "lastName": "Aquino",
+        "gender": "Male",
+        "dateBirth": {
+            "day": 0, 
+            "monthYear": ""
+          },
+        "address": "Rua dos Alfeneiros",
+        "email": "diego@teste.com.br",
+        "password": "Pwd123@@@",
+        "company": "IA",
+        "role": "QA",
+        "jobExpec": "Challenging",
+        "waysOfDev": ["Read books", "Take online courses", "Contribute to opensource projects"],
+        "comment": "Chegamos até aqui"
+    },
+    "addressRequired": {
+        "firstName": "Diego",
+        "lastName": "Aquino",
+        "gender": "Male",
+        "dateBirth": {
+          "day": 18, 
+          "monthYear": "February 2023"
+        },
+        "address": "",
+        "email": "diego@teste.com.br",
+        "password": "Pwd123@@@",
+        "company": "IA",
+        "role": "QA",
+        "jobExpec": "Challenging",
+        "waysOfDev": ["Read books", "Take online courses", "Contribute to opensource projects"],
+        "comment": "Chegamos até aqui"
+    },
+    "emailRequired": {
+        "firstName": "Diego",
+        "lastName": "Aquino",
+        "gender": "Male",
+        "dateBirth": {
+          "day": 18, 
+          "monthYear": "February 2023"
+        },
+        "address": "Rua dos Alfeneiros",
+        "email": "",
+        "password": "Pwd123@@@",
+        "company": "IA",
+        "role": "QA",
+        "jobExpec": "Challenging",
+        "waysOfDev": ["Read books", "Take online courses", "Contribute to opensource projects"],
+        "comment": "Chegamos até aqui"
+    },
+    "passwordRequired": {
+        "firstName": "Diego",
+        "lastName": "Aquino",
+        "gender": "Male",
+        "dateBirth": {
+          "day": 18, 
+          "monthYear": "February 2023"
+        },
+        "address": "Rua dos Alfeneiros",
+        "email": "diego@teste.com.br",
+        "password": "",
+        "company": "IA",
+        "role": "QA",
+        "jobExpec": "Challenging",
+        "waysOfDev": ["Read books", "Take online courses", "Contribute to opensource projects"],
+        "comment": "Chegamos até aqui"
+    },
+    "companyRequired": {
+        "firstName": "Diego",
+        "lastName": "Aquino",
+        "gender": "Male",
+        "dateBirth": {
+          "day": 18, 
+          "monthYear": "February 2023"
+        },
+        "address": "Rua dos Alfeneiros",
+        "email": "diego@teste.com.br",
+        "password": "Pwd123@@@",
+        "company": "",
+        "role": "QA",
+        "jobExpec": "Challenging",
+        "waysOfDev": ["Read books", "Take online courses", "Contribute to opensource projects"],
+        "comment": "Chegamos até aqui"
+    }
+}

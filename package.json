@@ -1,0 +1,14 @@
+{
+  "name": "login-xp-playwright",
+  "version": "1.0.0",
+  "description": "Projeto de testes de preenchimento de um forms com Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Diego Aquino",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.43.0",
+    "@types/node": "^20.12.4",
+    "moment": "^2.30.1"
+  }
+}
